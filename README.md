@@ -44,7 +44,7 @@ README.md                    # Documentação do projeto
 
 Você pode acessar o dashboard interativo do Power BI clicando no link abaixo:
 
-[**Passos Mágicos Dashboard**](https://link-para-o-dashboard.com](https://app.powerbi.com/view?r=eyJrIjoiYTkxMjNjNmYtYWVkNC00Nzk0LTg2NzgtZGJkOGU0OTI2ODcyIiwidCI6IjdiZjAxYzZhLWU2ZmItNDIxYS1iYmIyLWI5MGMzZWE4NjhmNyJ9)
+[**Passos Mágicos Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYTkxMjNjNmYtYWVkNC00Nzk0LTg2NzgtZGJkOGU0OTI2ODcyIiwidCI6IjdiZjAxYzZhLWU2ZmItNDIxYS1iYmIyLWI5MGMzZWE4NjhmNyJ9)
 
 Alternativamente, você pode abrir o arquivo `.pbix` na pasta `/power_bi` utilizando o Power BI Desktop.
 
