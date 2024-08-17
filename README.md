@@ -48,6 +48,8 @@ Você pode acessar o dashboard interativo do Power BI clicando no link abaixo:
 
 Alternativamente, você pode abrir o arquivo `.pbix` na pasta `/power_bi` utilizando o Power BI Desktop.
 
+Os arquivos e bases de dados utilizados podem ser acessados pelo link [Arquivos utilizado no desenvolvimento](https://drive.google.com/file/d/1Y1s57wsC2TLusLJCf4VHxDzErTfTftGz/view?usp=sharing)
+
 ## Requisitos
 
 Para visualizar e editar o dashboard, você precisará do [Microsoft Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/).
