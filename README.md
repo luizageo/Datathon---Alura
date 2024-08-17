@@ -58,7 +58,7 @@ Para visualizar e editar o dashboard, você precisará do [Microsoft Power BI De
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/passos-magicos-analise.git
+   git clone (https://github.com/luizageo/Datathon---Alura.git)
    ```
 2. Navegue até o diretório do projeto:
    ```bash
